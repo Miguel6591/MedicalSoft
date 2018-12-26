@@ -1,0 +1,3 @@
+1#María#Pérez Álamo#Española#Real,57#Jaen#13333#Cacahuete, lactosa, gluten#Metformina, LOSARTAN ALMUS#77777777L#12-12-1940#4321#F#Diabetes Tipo 2, Hipertensión, Sintrom#Radriografia torax, Analisis de orina#
+2#Pedro#Coca Menchero#Ecuatoriano#Mayor, 50#Madrid#15555#Tomate, Gatos, gramineas#Ventolin#88888888R#24-5-1990#4322#M#Asma#Cronoencefalograma#
+3#Olga#Guerra López#Española#Colón, 90#Ciudad Real#13003#Avispas, Maiz#Alopurinol, Ibuprofeno, Diálisis#33333333Q#15-12-1970#4323#F#Cálculos renales#Analisis de orina#
